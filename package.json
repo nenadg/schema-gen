@@ -1,0 +1,13 @@
+{
+  "name": "schema-gen",
+  "version": "0.0.1",
+  "private": true,
+  "author":"Nenad Golubović <me@nenadg.com>",
+  "description":"Schema generation sample",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "mongoose":"3.6.20"
+  }
+}
